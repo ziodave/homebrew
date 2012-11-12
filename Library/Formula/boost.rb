@@ -19,9 +19,10 @@ end
 
 class Boost < Formula
   homepage 'http://www.boost.org'
-  url 'http://downloads.sourceforge.net/project/boost/boost/1.51.0/boost_1_51_0.tar.bz2'
-  sha1 '52ef06895b97cc9981b8abf1997c375ca79f30c5'
-  version '1.51.0'
+  # url 'http://downloads.sourceforge.net/project/boost/boost/1.51.0/boost_1_51_0.tar.bz2'
+  url 'http://downloads.sourceforge.net/project/boost/boost/1.48.0/boost_1_48_0.tar.bz2'
+  sha1 '27aced5086e96c6f7b2b684bda2bd515e115da35'
+  version '1.48.0'
 
   head 'http://svn.boost.org/svn/boost/trunk'
 
